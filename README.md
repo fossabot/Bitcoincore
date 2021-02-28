@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhierarchy-orbit%2FBitcoincore.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhierarchy-orbit%2FBitcoincore?ref=badge_shield)
+
 Bitcoin Core integration/staging tree
 =====================================
 
@@ -78,3 +80,7 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhierarchy-orbit%2FBitcoincore.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhierarchy-orbit%2FBitcoincore?ref=badge_large)
